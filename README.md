@@ -33,3 +33,7 @@ Configure rotas para ações como inscrição, pagamento, etc.
 ### Etapa 5: Integração com AWS
 Configure serviços da AWS, como armazenamento de mídia, para gerenciar ativos de mídia.
 Implemente a funcionalidade de pagamento e autenticação com AWS.
+
+![landing-page example](./Screenshot 2023-10-21 012444.png)
+![landing-page example](./Screenshot 2023-10-21 012523.png)
+![landing-page example](./preview.png)
