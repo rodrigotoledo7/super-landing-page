@@ -3,24 +3,17 @@
 ### Etapa 1: Estrutura Básica (HTML/CSS)
 ### 1.1. Estrutura HTML
 Comece criando o arquivo HTML principal do seu site. Você pode nomeá-lo como index.html.
-
 Defina a estrutura básica do HTML, incluindo as tags html, head, e body.
-
-No elemento <head>, defina o título da página, vincule o arquivo CSS externo e adicione qualquer meta-informação relevante, como descrição e palavras-chave.
+No elemento head, defina o título da página, vincule o arquivo CSS externo e adicione qualquer meta-informação relevante, como descrição e palavras-chave.
 ### 1.2. Estilo com CSS
 Crie um arquivo CSS chamado styles.css para estilizar a página.
-
 Comece estilizando o corpo da página, definindo margens, fundo e fonte padrão.
 Continue estilizando outras seções da página, como a descrição do infoproduto, depoimentos, etc., definindo margens, espaçamento e cores apropriadas.
 ### 1.3. Conteúdo da Página
 Adicione o conteúdo da página, incluindo um cabeçalho atraente, uma descrição do infoproduto, informações sobre o instrutor e depoimentos.
-
 Use HTML para criar seções como títulos, parágrafos, listas e imagens.
 ### 1.4. Estilização Avançada
-Se necessário, adicione estilização avançada, como efeitos de hover, animações e responsividade para tornar o site mais atraente e amigável para dispositivos móveis.
-
-Certifique-se de testar o site em vários navegadores e dispositivos para garantir que a aparência seja consistente.
-Estilize o cabeçalho da página, incluindo fundo, cores de texto e espaçamento.
+Se necessário, adicione estilização avançada, como efeitos de hover, animações e responsividade para dispositivos móveis.
 ### Etapa 2: Componentes React (React.js)
 Crie componentes React para seções da página, como cabeçalho, descrição do infoproduto, depoimentos, etc.
 Integre os componentes React na página de destino.
