@@ -34,6 +34,6 @@ Configure rotas para ações como inscrição, pagamento, etc.
 Configure serviços da AWS, como armazenamento de mídia, para gerenciar ativos de mídia.
 Implemente a funcionalidade de pagamento e autenticação com AWS.
 
-![landing-page example](./Screenshot 2023-10-21 012444.png)
-![landing-page example](./Screenshot 2023-10-21 012523.png)
+![landing-page example](./Screenshot%202023-10-21%20012444.png)
+![landing-page example](./Screenshot%202023-10-21%20012523.png)
 ![landing-page example](./preview.png)
